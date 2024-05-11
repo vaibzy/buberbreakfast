@@ -1,0 +1,34 @@
+# General
+.vscode/
+bin/
+obj/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.manifest
+*.nupkg
+*.log
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Resharper
+_ReSharper*/
+
+# Rider files
+.idea/
+
+# Others
+*.cache
+*.log
+*.bak
+*.DS_Store
+*.bak
